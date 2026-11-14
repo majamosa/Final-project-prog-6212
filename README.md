@@ -52,3 +52,10 @@ To check whether the container is running:
 ```powershell
 docker ps
 ```
+## 8. Stop the Website
+
+To stop the container:
+
+```powershell
+docker stop raceday-web
+```
