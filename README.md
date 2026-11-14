@@ -31,3 +31,10 @@ Wait until the build finishes successfully.
 Open the RaceDay solution in Visual Studio and start the `RaceDay_Api` project.
 
 The API must be running because the website communicates with it.
+## 5. Run the Docker Container
+
+In PowerShell, enter:
+
+```powershell
+docker run -d --name raceday-web -p 8080:8080 --env-file .env raceday-web
+```
