@@ -70,3 +70,11 @@ docker start raceday-web
 Then visit:
 
 http://localhost:8080
+## 10. Remove the Container
+
+To remove the container:
+
+```powershell
+docker stop raceday-web
+docker rm raceday-web
+```
