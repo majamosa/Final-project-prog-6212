@@ -1,1 +1,20 @@
 # Final-project-prog-6212
+RaceDay – Docker Running Instructions
+
+1. Start Docker Desktop
+
+Open Docker Desktop on your computer.
+
+Wait until Docker Engine is running.
+
+Make sure Docker Desktop is ready before continuing.
+
+2. Open the RaceDay Project
+
+Open PowerShell.
+
+Navigate to the RaceDay_Webs folder:
+
+cd "C:\Users\User\OneDrive\Desktop\FINAL PROG PART2\RaceDay_Webs"
+
+Note: Change the folder path if the project is saved somewhere else.
