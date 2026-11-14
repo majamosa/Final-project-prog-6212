@@ -38,3 +38,10 @@ In PowerShell, enter:
 ```powershell
 docker run -d --name raceday-web -p 8080:8080 --env-file .env raceday-web
 ```
+## 6. Access the Website
+
+Open Google Chrome or another browser and enter:
+
+http://localhost:8080
+
+The RaceDay website should now open.
