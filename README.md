@@ -18,3 +18,12 @@ Navigate to the RaceDay_Webs folder:
 cd "C:\Users\User\OneDrive\Desktop\FINAL PROG PART2\RaceDay_Webs"
 
 Note: Change the folder path if the project is saved somewhere else.
+## 3. Build the Docker Image
+
+Run the following command:
+
+```powershell
+docker build -t raceday-web --load .
+```
+
+Wait until the build finishes successfully.
