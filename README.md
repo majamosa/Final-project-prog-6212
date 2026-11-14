@@ -45,3 +45,10 @@ Open Google Chrome or another browser and enter:
 http://localhost:8080
 
 The RaceDay website should now open.
+## 7. Check Running Containers
+
+To check whether the container is running:
+
+```powershell
+docker ps
+```
