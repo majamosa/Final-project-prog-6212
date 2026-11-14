@@ -27,3 +27,7 @@ docker build -t raceday-web --load .
 ```
 
 Wait until the build finishes successfully.
+## 4. Start the RaceDay API
+Open the RaceDay solution in Visual Studio and start the `RaceDay_Api` project.
+
+The API must be running because the website communicates with it.
