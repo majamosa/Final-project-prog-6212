@@ -59,3 +59,14 @@ To stop the container:
 ```powershell
 docker stop raceday-web
 ```
+# 9. Start the Website Again
+
+To start the existing container:
+
+```powershell
+docker start raceday-web
+```
+
+Then visit:
+
+http://localhost:8080
